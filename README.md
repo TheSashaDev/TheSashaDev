@@ -1,23 +1,31 @@
-# Hi, I'm TheSashaDev 👋
+# TheSashaDev 👋
 
-I build practical tools, Minecraft plugins, web apps, and automation projects.
+## English
+I build practical tools, Minecraft plugins, web apps, and automation projects. My public profile is focused on repositories with real code, understandable structure, and experiments with frontend/backend tooling.
 
-## Featured projects
+### Featured projects
+- **ssh-mcp-server** — MCP server for SSH automation and file transfers.
+- **home-bank-system** — full-stack banking-style demo with web, backend, and Android modules.
+- **camera-monitoring-system** — authorized Android/server/admin-panel monitoring demo.
+- **DiscordPunishments** — Minecraft moderation plugin integrated with Discord.
+- **minecraft-diseases-plugin** — Minecraft gameplay plugin with disease mechanics.
 
-- **ssh-mcp-server** — MCP server for remote SSH command execution and file transfers.
-- **home-bank / literate-pancake** — full-stack banking-style system with web client, server, and Android scanner.
-- **Camera Surveillance System** — Android + WebRTC + admin dashboard experiment for controlled device monitoring.
-- **DiscordPunishments** — Minecraft plugin for Discord-based moderation actions.
-- **DiseasesPlugin** — Minecraft plugin that adds configurable disease mechanics.
+## Русский
+Я делаю практичные инструменты, Minecraft-плагины, web-приложения и automation-проекты. Публичный профиль сфокусирован на репозиториях с реальным кодом, понятной структурой и экспериментами с frontend/backend tooling.
 
-## Tech stack
+### Избранные проекты
+- **ssh-mcp-server** — MCP-сервер для SSH-автоматизации и передачи файлов.
+- **home-bank-system** — full-stack banking-style demo с web, backend и Android модулями.
+- **camera-monitoring-system** — authorized demo для Android/server/admin-panel мониторинга.
+- **DiscordPunishments** — Minecraft-плагин модерации через Discord.
+- **minecraft-diseases-plugin** — Minecraft gameplay-плагин с механикой болезней.
 
-- **Languages:** TypeScript, Java, Python, JavaScript
-- **Backend:** Node.js, Express-style APIs, WebSocket/WebRTC experiments
-- **Frontend:** React, Next.js, Tailwind CSS, static interactive pages
-- **Minecraft:** Paper/Spigot plugins, Maven, plugin configuration
-- **Automation:** MCP servers, bots, CLI tooling
+## Українська
+Я створюю практичні інструменти, Minecraft-плагіни, web-застосунки та automation-проєкти. Публічний профіль сфокусований на репозиторіях із реальним кодом, зрозумілою структурою та експериментами з frontend/backend tooling.
 
-## Focus
-
-I like building tools that connect systems together: game servers, bots, dashboards, automation agents, and web interfaces.
+### Обрані проєкти
+- **ssh-mcp-server** — MCP-сервер для SSH-автоматизації та передачі файлів.
+- **home-bank-system** — full-stack banking-style demo з web, backend та Android модулями.
+- **camera-monitoring-system** — authorized demo для Android/server/admin-panel моніторингу.
+- **DiscordPunishments** — Minecraft-плагін модерації через Discord.
+- **minecraft-diseases-plugin** — Minecraft gameplay-плагін із механікою хвороб.
