@@ -1,53 +1,23 @@
-```json
-{
-  "username": "TheSashaDev",
-  "profile": {
-    "bio": "Breaking games by day, breaking code by night. GTA stuntman, Minecraft blockhead, Java ninja, Python whisperer. ChatGPT on speed dial!"
-  },
-  "games": {
-    "favorites": [
-      "GTA 5",
-      "Minecraft"
-    ]
-  },
-  "coding": {
-    "languages": [
-      "Java",
-      "Python"
-    ],
-    "style": "ChatGPT",
-    "philosophy": "Write code, break code, ask ChatGPT, repeat. Also, it's not a bug, it’s a feature... probably."
-  },
-  "achievements": {
-    "coding": [
-      {
-        "title": "Space Invader",
-        "description": "Mastered Python's spacebar addiction. Tabs are overrated anyway."
-      },
-      {
-        "title": "Null Terminator",
-        "description": "Killed more NullPointers than bugs in GTA 5."
-      },
-      {
-        "title": "AI Co-Pilot",
-        "description": "ChatGPT writes half my code. The better half."
-      }
-    ],
-    "gaming": [
-      {
-        "title": "Tower of Nope",
-        "description": "Built a 50-block tower in Minecraft, fell off the top."
-      },
-      {
-        "title": "Los Santos Acrobat",
-        "description": "Accidentally landed a flip. Totally intentional."
-      },
-      {
-        "title": "Crafting Genius",
-        "description": "Crafted diamond armor... after 50 tries."
-      }
-    ]
-  },
-  "motto": "If at first you don’t succeed, blame lag or ChatGPT."
-}
-```
+# Hi, I'm TheSashaDev 👋
+
+I build practical tools, Minecraft plugins, web apps, and automation projects.
+
+## Featured projects
+
+- **ssh-mcp-server** — MCP server for remote SSH command execution and file transfers.
+- **home-bank / literate-pancake** — full-stack banking-style system with web client, server, and Android scanner.
+- **Camera Surveillance System** — Android + WebRTC + admin dashboard experiment for controlled device monitoring.
+- **DiscordPunishments** — Minecraft plugin for Discord-based moderation actions.
+- **DiseasesPlugin** — Minecraft plugin that adds configurable disease mechanics.
+
+## Tech stack
+
+- **Languages:** TypeScript, Java, Python, JavaScript
+- **Backend:** Node.js, Express-style APIs, WebSocket/WebRTC experiments
+- **Frontend:** React, Next.js, Tailwind CSS, static interactive pages
+- **Minecraft:** Paper/Spigot plugins, Maven, plugin configuration
+- **Automation:** MCP servers, bots, CLI tooling
+
+## Focus
+
+I like building tools that connect systems together: game servers, bots, dashboards, automation agents, and web interfaces.
